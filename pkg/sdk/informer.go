@@ -18,7 +18,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/operator-framework/operator-sdk/pkg/sdk/internal/metrics"
+	"github.com/operator-framework/operator-sdk/pkg/sdk/metrics"
 
 	"github.com/sirupsen/logrus"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"

@@ -18,7 +18,7 @@ import (
 	"context"
 
 	"github.com/operator-framework/operator-sdk/pkg/k8sclient"
-	"github.com/operator-framework/operator-sdk/pkg/sdk/internal/metrics"
+	"github.com/operator-framework/operator-sdk/pkg/sdk/metrics"
 
 	"github.com/sirupsen/logrus"
 )

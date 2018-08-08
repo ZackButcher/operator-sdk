@@ -15,7 +15,7 @@
 package sdk
 
 import (
-	"github.com/operator-framework/operator-sdk/pkg/sdk/internal/metrics"
+	"github.com/operator-framework/operator-sdk/pkg/sdk/metrics"
 	"github.com/operator-framework/operator-sdk/pkg/util/k8sutil"
 
 	"github.com/sirupsen/logrus"
